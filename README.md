@@ -1,5 +1,4 @@
 <h1>Hi 👋, I am Daniel </h1>
-<p>Fullstack Developer in making</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieltayal07/danieltayal07/output/github-snake-dark.svg" />
